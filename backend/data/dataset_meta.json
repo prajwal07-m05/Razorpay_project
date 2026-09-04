@@ -1,0 +1,17 @@
+{
+  "canonical_transactions": 100000,
+  "records": 100000,
+  "seed": 42,
+  "total_records": 530238,
+  "table_counts": {
+    "orders": 100000,
+    "payments": 100144,
+    "refunds": 30224,
+    "fees": 100003,
+    "settlements": 100003,
+    "bank_credits": 99864
+  },
+  "planted_anomalies": 1042,
+  "generation_time_ms": 1965.44,
+  "generated_at": "2026-09-04T14:09:05.750090Z"
+}
