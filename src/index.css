@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Archivo', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  --color-background: #0b0d0f;
+  --color-surface: #121619;
+  --color-surface-2: #191f23;
+  --color-foreground: #e8ece9;
+  --color-muted: #7c8a86;
+  --color-border: #262d31;
+  --color-border-strong: #38424a;
+
+  --color-signal: #d6f145;      /* hot lime — primary interactive */
+  --color-signal-fg: #0b0d0f;
+
+  --color-critical: #ff5c49;
+  --color-high: #ff9f45;
+  --color-medium: #ffd23f;
+  --color-low: #8aa0a8;
+  --color-ok: #38d39f;
+  --color-review: #7aa2ff;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: 'tnum' 1;
+}
+
+::selection {
+  background: var(--color-signal);
+  color: var(--color-signal-fg);
+}
+
+/* Hide scrollbars until scrolling */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+*:hover::-webkit-scrollbar-thumb {
+  background: var(--color-border-strong);
+}
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 0;
+}
