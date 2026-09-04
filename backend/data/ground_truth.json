@@ -1,0 +1,4170 @@
+[
+  {
+    "payment_id": "PAY000001",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY000002",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY000003",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY000004",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY000005",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY000006",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY000007",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY000009",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY000011",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY000012",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY000013",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY000014",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY000015",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY000016",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY000017",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY000041",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY000051",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY000262",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY000533",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY000570",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY000576",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY000967",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY000988",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY001131",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY001163",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY001418",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY001444",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY001588",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY001597",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY001832",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY001857",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY001965",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY002263",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY002346",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY002534",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY002663",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY002689",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY002715",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY002834",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY002939",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY002946",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY003151",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY003274",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY003292",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY003362",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY003404",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY003454",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY003638",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY003689",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY003734",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY003745",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY003799",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY003814",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY003911",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY003978",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY003990",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY004047",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY004158",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY004221",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY004261",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY004511",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY004598",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY004697",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY004702",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY004725",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY004913",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY004924",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY004926",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY004933",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY004985",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY005237",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY005243",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY005278",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY005331",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY005347",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY005359",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY005386",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY005438",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY005700",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY005786",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY005847",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY005863",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY005867",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY005877",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY005957",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY005975",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY006008",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY006098",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY006290",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY006341",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY006398",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY006406",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY006438",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY006547",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY006592",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY006615",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY007041",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY007066",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY007085",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY007116",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY007150",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY007160",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY007278",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY007383",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY007695",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY007796",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY007876",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY007889",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY007951",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY008062",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY008182",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY008271",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY008421",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY008488",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY008510",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY008551",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY008603",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY008634",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY008730",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY008776",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY008895",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY009094",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY009106",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY009148",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY009174",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY009265",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY009406",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY009694",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY009904",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY009933",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY010044",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY010119",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY010126",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY010142",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY010235",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY010251",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY010341",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY010353",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY010500",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY010637",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY010670",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY010721",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY010752",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY010858",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY010893",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY010911",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY011081",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY011146",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY011189",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY011334",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY011355",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY011532",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY011824",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY011909",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY011912",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY012140",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY012167",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY012258",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY012452",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY012626",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY012683",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY012735",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY012852",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY012889",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY012939",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY012989",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY013053",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY013132",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY013141",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY013164",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY013266",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY013290",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY013417",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY013523",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY013592",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY013616",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY013761",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY013828",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY014169",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY014249",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY014250",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY014504",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY014524",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY014716",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY014946",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY015008",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY015023",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY015029",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY015156",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY015173",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY015278",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY015324",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY015396",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY015428",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY015613",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY016101",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY016181",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY016673",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY016706",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY016908",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY016916",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY017216",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY017270",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY017601",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY017629",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY017711",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY017774",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY017799",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY017889",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY017996",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY018094",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY018120",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY018369",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY018374",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY018389",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY018580",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY018637",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY018647",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY018729",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY018868",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY019078",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY019209",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY019350",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY019395",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY019421",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY019443",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY019447",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY019588",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY019878",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY020225",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY020381",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY020428",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY020485",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY020631",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY020703",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY020794",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY020913",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY021268",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY021270",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY021491",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY021623",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY021735",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY021792",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY021820",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY021846",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY021885",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY022039",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY022102",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY022414",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY022465",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY022593",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY022788",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY022899",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY023055",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY023143",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY023268",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY023274",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY023305",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY023324",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY023353",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY023788",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY023830",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY023922",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY024038",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY024067",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY024094",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY024131",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY024194",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY024242",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY024262",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY024337",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY024397",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY024443",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY024487",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY024561",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY024637",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY024663",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY024669",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY024802",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY024857",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY024937",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY025011",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY025148",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY025195",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY025236",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY025285",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY025369",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY025430",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY025438",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY025724",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY026061",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY026130",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY026182",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY026205",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY026233",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY026691",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY026882",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY027123",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY027139",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY027185",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY027189",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY027301",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY027372",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY027527",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY027647",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY027775",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY027882",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY027899",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY027928",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY027987",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY028047",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY028173",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY028345",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY028366",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY028499",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY028565",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY028571",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY028616",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY028710",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY028748",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY029038",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY029146",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY029299",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY029383",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY029516",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY029550",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY029790",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY029950",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY029983",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY030054",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY030216",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY030458",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY030527",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY030627",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY030643",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY030779",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY030803",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY030907",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY030944",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY031035",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY031264",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY031283",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY031354",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY031391",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY031442",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY031479",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY031575",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY031778",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY031829",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY031844",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY031960",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY031963",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY031981",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY031996",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY032012",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY032058",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY032100",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY032195",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY032294",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY032321",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY032449",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY032578",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY032646",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY032747",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY032766",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY032796",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY032909",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY032967",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY032985",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY033020",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY033208",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY033303",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY033385",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY033414",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY033436",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY033539",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY033719",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY033804",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY033816",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY033984",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY034104",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY034175",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY034247",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY034367",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY034504",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY034512",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY034621",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY034693",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY034993",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY034995",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY035002",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY035167",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY035238",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY035361",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY035365",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY035421",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY035427",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY035451",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY035660",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY035764",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY035980",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY036022",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY036217",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY036357",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY036367",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY036425",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY036542",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY036605",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY036706",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY036719",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY036725",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY036819",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY037171",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY037201",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY037269",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY037277",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY037421",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY037422",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY037476",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY037490",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY037585",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY037686",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY037714",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY037968",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY038142",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY038167",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY038548",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY038676",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY038756",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY038758",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY038783",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY038812",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY038832",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY038949",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY038972",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY039138",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY039207",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY039256",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY039266",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY039295",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY039303",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY039537",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY039541",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY039659",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY039670",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY039739",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY039829",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY040004",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY040048",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY040244",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY040335",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY040396",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY040425",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY040555",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY040601",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY040636",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY040856",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY040905",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY041043",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY041182",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY041201",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY041239",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY041334",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY041355",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY041391",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY041526",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY041728",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY041791",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY041869",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY042109",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY042319",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY042411",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY042550",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY042630",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY042634",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY042689",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY042739",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY042760",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY042907",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY043056",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY043071",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY043314",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY043336",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY043556",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY043572",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY043633",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY043664",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY043710",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY043711",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY043795",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY043806",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY043841",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY044061",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY044097",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY044107",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY044237",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY044319",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY044462",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY044489",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY044541",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY044696",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY044735",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY044750",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY044919",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY045005",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY045018",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY045106",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY045226",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY045264",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY045400",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY045403",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY045460",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY045679",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY045690",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY045707",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY045739",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY045925",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY046145",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY046199",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY046314",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY046416",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY046436",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY046503",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY046537",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY046668",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY046916",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY047100",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY047194",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY047242",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY047254",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY047269",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY047421",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY047470",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY047567",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY047672",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY047736",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY047738",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY047799",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY047805",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY047824",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY047864",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY047943",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY048111",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY048176",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY048371",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY048455",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY048669",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY048764",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY048989",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY049003",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY049066",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY049078",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY049320",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY049326",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY049435",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY049441",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY049456",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY049544",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY049679",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY049696",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY049747",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY049879",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY050096",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY050102",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY050137",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY050202",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY050686",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY050701",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY050728",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY050832",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY050965",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY051052",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY051068",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY051240",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY051471",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY051739",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY051803",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY051925",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY052018",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY052178",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY052293",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY052311",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY052344",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY052367",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY052615",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY052744",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY052768",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY053100",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY053228",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY053334",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY053481",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY053519",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY053569",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY053598",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY053766",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY053770",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY053891",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY053937",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY054562",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY054891",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY054895",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY055070",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY055209",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY055399",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY055450",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY055560",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY055800",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY055847",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY056061",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY056080",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY056452",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY056590",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY056621",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY056736",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY056753",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY056826",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY056875",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY056977",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY057146",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY057235",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY057240",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY057244",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY057271",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY057354",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY057746",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY057821",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY057887",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY057913",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY057975",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY058015",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY058092",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY058103",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY058120",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY058209",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY058367",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY058451",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY058543",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY058701",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY058774",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY058831",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY058837",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY058898",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY059017",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY059020",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY059042",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY059230",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY059237",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY059369",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY059706",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY059906",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY059949",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY059956",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY059997",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY060124",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY060253",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY060313",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY060430",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY060492",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY060496",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY060521",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY060549",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY060597",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY060800",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY060811",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY060890",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY060949",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY061192",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY061501",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY061505",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY061668",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY061773",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY061888",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY062044",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY062091",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY062102",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY062478",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY062557",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY062632",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY062709",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY062711",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY062770",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY062872",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY063064",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY063162",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY063431",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY063624",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY063748",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY063788",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY063862",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY063933",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY063947",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY063961",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY063978",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY064161",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY064243",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY064326",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY064421",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY064530",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY064704",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY064729",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY064840",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY064852",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY064892",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY065088",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY065155",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY065207",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY065325",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY065736",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY065765",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY065767",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY065955",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY066004",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY066012",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY066034",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY066193",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY066457",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY066482",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY066676",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY066915",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY067000",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY067118",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY067193",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY067233",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY067588",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY067599",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY067618",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY067621",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY067687",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY067742",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY067757",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY067922",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY068000",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY068121",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY068186",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY068218",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY068269",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY068598",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY068682",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY068828",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY068961",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY069071",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY069411",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY069424",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY069838",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY070084",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY070204",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY070372",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY070436",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY070577",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY070672",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY070812",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY070957",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY071021",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY071071",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY071105",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY071142",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY071216",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY071278",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY071476",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY071536",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY071649",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY071774",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY071998",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY071999",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY072017",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY072065",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY072079",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY072198",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY072230",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY072231",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY072306",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY072414",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY072562",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY072819",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY072842",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY072881",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY072899",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY072925",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY072941",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY073079",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY073082",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY073135",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY073156",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY073160",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY073209",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY073640",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY073688",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY073764",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY074032",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY074239",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY074356",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY074402",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY074413",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY074649",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY074676",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY074693",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY074863",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY074916",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY074950",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY075015",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY075065",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY075151",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY075209",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY075298",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY075613",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY075673",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY075759",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY075780",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY075947",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY075964",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY076100",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY076109",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY076151",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY076172",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY076175",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY076321",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY076514",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY076539",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY076666",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY076676",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY076797",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY076840",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY076845",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY076865",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY076899",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY077008",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY077181",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY077226",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY077253",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY077274",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY077441",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY077483",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY077615",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY077758",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY077797",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY077858",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY078062",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY078091",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY078098",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY078366",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY078485",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY078534",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY078666",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY078762",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY078779",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY079227",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY079400",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY079474",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY079519",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY079619",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY079643",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY079730",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY079773",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY079824",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY079903",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY079914",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY079951",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY080113",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY080137",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY080255",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY080502",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY080586",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY080696",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY080932",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY081008",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY081026",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY081104",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY081118",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY081216",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY081369",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY081584",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY081608",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY082063",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY082082",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY082152",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY082247",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY082284",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY082331",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY082351",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY082578",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY082629",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY082680",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY082792",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY082998",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY083019",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY083152",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY083281",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY083343",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY083357",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY083433",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY083587",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY083759",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY083903",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY084113",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY084125",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY084249",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY084353",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY084404",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY084412",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY084701",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY084847",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY084945",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY085035",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY085049",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY085127",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY085190",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY085228",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY085432",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY085496",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY085508",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY085586",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY085625",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY085676",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY086048",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY086100",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY086164",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY086371",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY086374",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY086379",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY086414",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY086455",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY086693",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY086747",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY086795",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY086845",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY086898",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY087086",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY087229",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY087318",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY087335",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY087413",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY087443",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY087572",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY087597",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY087853",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY087879",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY088159",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY088202",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY088208",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY088422",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY088476",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY088570",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY088744",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY088805",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY088914",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY088932",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY088940",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY089010",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY089059",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY089255",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY089460",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY089498",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY089566",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY089583",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY089644",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY089899",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY089957",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY089993",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY090028",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY090074",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY090305",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY090499",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY090516",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY090724",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY090784",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY090850",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY090869",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY090948",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY091046",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY091076",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY091183",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY091295",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY091421",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY091456",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY091551",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY091596",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY091617",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY091630",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY091672",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY091702",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY091717",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY091937",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY092016",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY092212",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY092246",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY092250",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY092274",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY092451",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY092667",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY092699",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY092726",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY092814",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY092821",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY092913",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY093038",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY093369",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY093489",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY093569",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY093616",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY093880",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY094158",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY094206",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY094317",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY094503",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY094620",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY094666",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY094893",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY095201",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY095398",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY095933",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY095950",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY095964",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY096160",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY096237",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY096323",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY096345",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY096736",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY096928",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY096959",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY097134",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY097165",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY097357",
+    "type": "MISSING_SETTLEMENT"
+  },
+  {
+    "payment_id": "PAY097707",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY097767",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY098248",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY098284",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY098538",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY098706",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY098833",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY099026",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY099318",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY099338",
+    "type": "MISSING_BANK_CREDIT"
+  },
+  {
+    "payment_id": "PAY099421",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY099469",
+    "type": "DUPLICATE_REFUND"
+  },
+  {
+    "payment_id": "PAY099599",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY099772",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY099851",
+    "type": "STATUS_MISMATCH"
+  },
+  {
+    "payment_id": "PAY099905",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY099925",
+    "type": "DUPLICATE_PAYMENT"
+  },
+  {
+    "payment_id": "PAY100007",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  },
+  {
+    "payment_id": "PAY100101",
+    "type": "REFUND_EXCEEDS_PAYMENT"
+  },
+  {
+    "payment_id": "PAY100127",
+    "type": "SETTLEMENT_UNDER_CREDIT"
+  }
+]
